@@ -1,0 +1,71 @@
+baseURL = 'https://frugaltechtales.com/'
+languageCode = 'en-us'
+title = 'Frugal Tech Tales'
+theme = 'typo'
+
+[taxonomies]
+tag = 'tags'
+
+# Google analytics code
+#googleAnalytics = "G-xxxxxxxxx"
+
+[params]
+# Meta description
+description = "A Low-Tech Tech Blog"
+
+# Appearance settings
+theme = 'auto'
+colorPalette = 'default'
+hideHeader = false
+
+# Intro on main page, content is markdown
+homeIntroTitle = 'Hello there!'
+homeIntroContent = """
+I'm a Gen-X dude in the Midwest keeping computers going with duck tape, twine, and bailing wire.  I will try to keep it to tech stuff but no promises.
+"""
+
+# Collection to display on home
+homeCollectionTitle = 'Posts'
+homeCollection = 'posts'
+
+# Lists parameters
+paginationSize = 100
+listSummaries = true
+listDateFormat = 'Jan 2 2006'
+
+# Breadcrumbs
+breadcrumbs = true
+
+# Social icons
+
+[[params.social]]
+name = "github"
+url = "https://github.com/regeya"
+
+# Main menu pages
+[[params.menu]]
+name = "home"
+url = "/"
+
+[[params.menu]]
+name = "posts"
+url = "/posts"
+
+[[params.menu]]
+name = "about"
+url = "/about"
+
+# Syntax highligth on code blocks
+[markup]
+[markup.highlight]
+style = 'algol'
+
+# Giscus comments
+#[params.giscus]
+#enable = false
+#repo = "user/repo"
+#repoid = "repoId"
+#category = "General"
+#categoryid = "categoryId"
+#mapping = "pathname"
+#theme = "preferred_color_scheme"
