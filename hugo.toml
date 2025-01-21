@@ -1,7 +1,7 @@
-baseURL = 'https://frugaltechtales.com/'
+baseURL = 'https://harmless-upgraded.net/'
 languageCode = 'en-us'
-title = 'Frugal Tech Tales'
-theme = 'typo'
+title = 'Harmless, Upgraded'
+theme = 'ananke'
 
 [taxonomies]
 tag = 'tags'
@@ -11,7 +11,7 @@ tag = 'tags'
 
 [params]
 # Meta description
-description = "A Low-Tech Tech Blog"
+description = "A Low-Tech Tech Blog (but mostly rambling)"
 
 # Appearance settings
 theme = 'auto'
