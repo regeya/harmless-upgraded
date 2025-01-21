@@ -1,7 +1,7 @@
 baseURL = 'https://harmless-upgraded.net/'
 languageCode = 'en-us'
 title = 'Harmless, Upgraded'
-theme = 'ananke'
+theme = 'typo'
 
 [taxonomies]
 tag = 'tags'
