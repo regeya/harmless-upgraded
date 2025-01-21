@@ -9,7 +9,7 @@ draft = false
 
 This is a first post.  There are many others like it, but this is mine.
 
-# In the eginning
+# In the beginning
 
 After nearly two decades on the production side of newspapers, namely ad and page layout, I've reached a milestone.
 
