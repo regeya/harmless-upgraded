@@ -4,7 +4,7 @@ date = 2025-01-21T12:03:26-05:00
 draft = false
 +++
 
-![Frost post](/static/first-post.jpg)
+![Frost post](/first-post.jpg)
 *Photo by Sebastian Beck from Pexels*
 
 This is a first post.  There are many others like it, but this is mine.
