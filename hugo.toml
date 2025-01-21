@@ -21,7 +21,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hello there!'
 homeIntroContent = """
-I'm a Gen-X dude in the Midwest keeping computers going with duck tape, twine, and bailing wire.  I will try to keep it to tech stuff but no promises.
+I'm a Midwesterner who likes to keep computers going with bailing wire and duck tape, if necessary
 """
 
 # Collection to display on home
