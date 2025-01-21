@@ -1,6 +1,6 @@
 +++
 title = 'First Post'
-date = 2024-07-09T12:03:26-05:00
+date = 2025-01-21T12:03:26-05:00
 draft = false
 +++
 
@@ -19,3 +19,6 @@ Flash forward to now: one kid has moved out, and the other will be off to colleg
 
 But I'm also wanting to get off of the Facebook train in particular.  It's only gotten worse.  I see posts *weeks* or even *months* later, and there's easily two *crap* posts--the divisive stuff created simply for low-effort engagement--for every post I actually want to see.
 
+And so for that reason I'm going to try to a.) move my rants over to my own website, and b.) be more constructive than what we see on social media.
+
+And I'm as guilty as anyone of not being productive on social media.  I'll admit it.  But I think we can all do better, don't you?
