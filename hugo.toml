@@ -2,7 +2,7 @@ baseURL = "https://harmless-upgraded.net/"
 languageCode = "en-us"
 title = "Harmless, Upgraded"
 theme = ["PaperMod"]
-paginate = 12
+paginator.pagerSize = 12
 home = "/posts"
 
 enableRobotsTXT = true
