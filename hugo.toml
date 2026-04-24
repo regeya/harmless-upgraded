@@ -1,0 +1,23 @@
+baseURL = "https://harmless-upgraded.net/"
+languageCode = "en-us"
+title = "Harmless, Upgraded"
+theme = ["PaperMod"]
+paginate = 12
+home = "/posts"
+
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  author = "Shane"
+  keywords = ["Blog", "PaperMod", "Linux", "Personal"]
+  defaultTheme = "auto"
+  hideAuthor = false
+  disableThemeToggle = false
+  contentDir = "content/"
