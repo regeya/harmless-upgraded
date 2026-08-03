@@ -11,13 +11,15 @@ buildFuture = false
 buildExpired = false
 
 [minify]
-  disableXML = true
-  minifyOutput = true
+disableXML = true
+minifyOutput = true
 
 [params]
-  author = "Shane"
-  keywords = ["Blog", "PaperMod", "Linux", "Personal"]
-  defaultTheme = "auto"
-  hideAuthor = false
-  disableThemeToggle = false
-  contentDir = "content/"
+keywords = ["Blog", "Linux", "Personal"]
+defaultTheme = "auto"
+hideAuthor = false
+disableThemeToggle = false
+contentDir = "content/"
+since = "2025"
+[params.Author]
+name = "Shane"

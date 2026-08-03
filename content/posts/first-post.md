@@ -1,5 +1,6 @@
 ---
 title: "First Post"
+date: "2026-01-31"
 categories:
   - Blog
 tags:
@@ -89,4 +90,3 @@ same building as your computer, you don’t have a backup.
 I think next I’m going to be writing about open source projects that’ve helped
 me while I’m (temporarily) disabled. Cross-platform typing by phone comes to
 mind, first.
-
