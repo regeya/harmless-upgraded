@@ -2,9 +2,7 @@
 title: "Engine Hum -- a sci-fi engine sound generator"
 date: "2026-08-06"
 draft: false
-ogImage: "/img/default-og-image.png"
-images:
-  - "/preview-2026-08-06.jpg"
+ogImage: "preview-2026-08-06.jpg"
 canonicalURL:
 hideDate: false
 description: ""
